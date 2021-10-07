@@ -1,0 +1,30 @@
+{
+  "name": "@rbxts/greenwichdb",
+  "version": "1.0.0",
+  "description": "Bindings from GreenwichDB to be compatible with roblox-ts",
+  "main": "src/init.lua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milo123459/rbxts-greenwich.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Milo123459/rbxts-greenwich/issues"
+  },
+  "homepage": "https://github.com/Milo123459/rbxts-greenwich#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "types": "src/typings/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
