@@ -25,3 +25,5 @@ interface Database {
     Fetch(key: string): boolean,
 
 }
+
+export default GreenwichDB
