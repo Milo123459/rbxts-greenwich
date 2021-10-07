@@ -26,4 +26,5 @@ interface Database {
 
 }
 
+export default GreenwichDB;
 declare const GreenwichDB: GreenwichDB;
