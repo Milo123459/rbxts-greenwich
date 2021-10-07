@@ -20,7 +20,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "types": "src/typings/index.d.ts",
+  "types": "src/index.d.ts",
   "files": [
     "src"
   ],
