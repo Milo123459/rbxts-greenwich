@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/greenwichdb",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Bindings from GreenwichDB to be compatible with roblox-ts",
   "main": "src/init.lua",
   "scripts": {
